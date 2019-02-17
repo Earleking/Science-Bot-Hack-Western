@@ -1,0 +1,19 @@
+{
+  "name": "science-questions",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Earleking <arek.fielding@gmail.com>",
+  "main": "functions/__main__.js",
+  "dependencies": {},
+  "private": true,
+  "stdlib": {
+    "build": "faaslang",
+    "name": "Earleking/science-questions",
+    "timeout": 10000,
+    "publish": true,
+    "personalize": {
+      "keys": [],
+      "user": []
+    }
+  }
+}
